@@ -6,6 +6,8 @@
 
 **A Real-time Face Alignment Toolkit for Vitural Youtuber on Embedded Device**
 
+[![YouTube](http://i.ytimg.com/vi/mAIbZjyKrT4/hqdefault.jpg)](https://www.youtube.com/watch?v=mAIbZjyKrT4)
+
 In this project, we use the algorithm from [RetinaFace](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_RetinaFace_Single-Shot_Multi-Level_Face_Localisation_in_the_Wild_CVPR_2020_paper.html), design a general toolkit on embedded device, towards algin face in real-time for vitural youtuber. Compared to the classic multilayer feature pyramid scaling, the optimized one performs better on the detection of the face capture system's  speed.
 <!-- ### Pipeline
 ![](https://md.cra.moe/uploads/0f55f6f5fb2d42fb15ae9eb04.png) -->
