@@ -91,8 +91,8 @@ For middle-close range face detection, appropriately removing FPN layers and red
 conda create -n deepVTB python=3.6
 conda activate deepVTB
 
-git clone https://github.com/Kazawaryu/DeepVTB.git
-cd DeepVTB
+git clone https://github.com/Kazawaryu/DLVYF
+cd DLVYF
 pip install --upgrade pip
 pip install -r requirements.txt
 -----------------------------------------------------------------------------
@@ -111,15 +111,15 @@ pip install mxnet
 sudo apt install nvm
 nvm install 18.13.0
 npm install yarn
-cd DeepVTB/NodeServer
+cd DLVYF/NodeServer
 yarn install
 ```
 ### Usage
 ``` shell
-cd DeepVTB/NodeServer
+cd DLVYF/NodeServer
 yarn start
 -----------------------------------------------------------------------------
-cd DeepVTB/PythonClient
+cd DLVYF/PythonClient
 python vtuber_link_start.py
 ```
     
